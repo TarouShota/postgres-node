@@ -1,3 +1,5 @@
 ## Testing the API with Postman
 
-https://user-images.githubusercontent.com/46716452/188292830-e8cd14cb-2a62-4761-81a9-f20bb3e64fed.mp4
+
+https://user-images.githubusercontent.com/46716452/188293113-f4029655-94b9-4f34-8daa-4dd31ad11419.mp4
+
