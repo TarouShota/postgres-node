@@ -1,6 +1,6 @@
 # postgres-node
 
 
-https://user-images.githubusercontent.com/46716452/188292631-0536a079-b758-4a54-b61f-f47a6af01d7a.mp4
+[testing-api-postman.webm](https://user-images.githubusercontent.com/46716452/188292818-479eedd2-4e14-4b5a-b28a-a2cd0a0d4f7e.webm)
 
 
