@@ -2,9 +2,6 @@
 ## Testing the API with Postman
 
 
-The project was week before getting an actual coding assessments.
-
-The project is almost the same as the <b> #5</b> coding assessment.
 
 #### run by writing:
 ```bash
